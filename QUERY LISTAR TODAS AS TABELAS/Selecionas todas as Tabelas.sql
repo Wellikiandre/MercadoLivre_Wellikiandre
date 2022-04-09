@@ -1,0 +1,4 @@
+SELECT * FROM [Order]
+SELECT * FROM Category
+SELECT * FROM Customer
+SELECT * FROM Item
