@@ -41,6 +41,5 @@ from(
 		) orders
 	)rankeamento 
 where 
-	@topUsuarios <=5
-
+	Posição_Mes <= @topUsuarios
 
